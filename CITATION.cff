@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: My Graph Collection
+message: >-
+  If you use either the software or the instances, please
+  cite it as below.
+type: dataset
+authors:
+  - given-names: FirstName1
+    family-names: LastName1
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+    email: email1@example.com
+    affiliation: Affiliation1
+  - given-names: FirstName2
+    family-names: LastName2
+    email: email2@example.com
+    affiliation: Affiliation2
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo.4321
+    description: >-
+      Enlace a la plataforma de Zenodo con la última versión
+      publicada del código
+repository-code: 'https://github.com/username/repository'
+abstract: >-
+  In this repository, there are signed undirected graphs.
+  These graphs are directly taken or adapted from other
+  graphs.
+keywords:
+  - graphs
+  - network
+  - optimization
+  - instances
+  - graph layout problem
+license: Apache-2.0
