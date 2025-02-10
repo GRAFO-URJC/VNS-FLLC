@@ -2,37 +2,38 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: My Graph Collection
+title: An efficient Variable Neighborhood Search approach for the Facility Location problem with Limited Choice rule
 message: >-
   If you use either the software or the instances, please
   cite it as below.
 type: dataset
 authors:
-  - given-names: FirstName1
-    family-names: LastName1
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
-    email: email1@example.com
-    affiliation: Affiliation1
-  - given-names: FirstName2
-    family-names: LastName2
-    email: email2@example.com
-    affiliation: Affiliation2
-    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: Enrique
+    family-names: García-Galán
+    orcid: 'https://orcid.org/0000-0001-5560-7270'
+    email: enrique.garciag@urjc.es
+    affiliation: Universidad Rey Juan Carlos
+  - given-names: Alberto
+    family-names: Herrán
+    email: alberto.herran@urjc.es
+    affiliation: Universidad Rey Juan Carlos
+    orcid: 'https://orcid.org/0000-0003-0348-0313'
+  - given-names: J. Manuel
+    family-names: Colmenar
+    email: josemanuel.colmenar@urjc.es
+    affiliation: Universidad Rey Juan Carlos
+    orcid: 'https://orcid.org/0000-0001-7490-9450'
 identifiers:
   - type: doi
     value: 10.1234/zenodo.4321
     description: >-
       Enlace a la plataforma de Zenodo con la última versión
       publicada del código
-repository-code: 'https://github.com/username/repository'
+repository-code: 'https://github.com/GRAFO-URJC/VNS-FLLC'
 abstract: >-
-  In this repository, there are signed undirected graphs.
-  These graphs are directly taken or adapted from other
-  graphs.
+  In this repository you will find the code and the instances used in the paper.
 keywords:
-  - graphs
-  - network
+  - VNS
   - optimization
   - instances
-  - graph layout problem
 license: Apache-2.0
